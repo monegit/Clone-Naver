@@ -2,7 +2,7 @@ import Search from "./Elements/Search";
 
 function App() {
   return (
-    <div className="App" style={{ height:"110vh" }} >
+    <div className="App" style={{ height:"200vh" }} >
       <Search
         // style={{
         //   right: 0,
