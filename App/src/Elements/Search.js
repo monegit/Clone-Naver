@@ -28,7 +28,8 @@ function Search() {
             fontWeight: "bold",
             fontSize: "18px",
             marginLeft:"-75px",
-            
+            padding:"0px 15px",
+            outline:"none",
           }}
         />
       </div>
